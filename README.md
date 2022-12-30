@@ -18,7 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Desktop Version](./design/desktop-preview.jpg)
-![Mobile Version](./design/mobile-perview.jpg)
+<p align="center">
+  <img src="./design/mobile-perview.jpg">
+</p>
 
 ## My process
 
