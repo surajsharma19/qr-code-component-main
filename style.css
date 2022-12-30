@@ -29,13 +29,15 @@ body{
 }
 
 .scanner-heading{
-    color: hsl(218, 44%, 22%);    
+    color: hsl(218, 44%, 22%);
+    margin: 20px 30px;
+    font-size: 28px;  
 }
 
 .scanner-details{
     color: hsl(220, 15%, 55%);
-    font-size: 20px;
-    margin: 0 30px;
+    font-size: 18px;
+    margin: 0 50px;
 }
 
 @media only screen and (max-width: 500px) {
@@ -48,8 +50,12 @@ body{
         width: 321px;
         height: 303px;
     }
+
+    .scanner-heading{
+        font-size: 24px;
+    }
     
     .scanner-details{
-        font-size: 18px;
+        font-size: 16px;
     }
 }
